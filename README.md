@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am passionate about building scalable web applic
 ## 🔥 My Top Projects
 
 ### 1️⃣ [MeetDoc - Online Doctor Consultation platform](https://meetdoc.harshsurendran.online)
-- **Tech Stack:** React, NestJS, MongoDB, WebRTC, Stripe
+- **Tech Stack:** React, NestJS, MongoDB, WebRTC, Stripe, Redis
 - **Features:** Video consultation, appointment booking, chat, and e-prescriptions.
 
 ### 2️⃣ [Urbane Wardrobe - Ecommerce platform](https://urbanewardrobe.shop/api/v1)
