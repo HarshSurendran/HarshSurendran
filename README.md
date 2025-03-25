@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Harsh Surendran! 
-### 🚀 Full-Stack Developer | MERN Stack | Blockchain Enthusiast
+### 🚀 Full-Stack Developer | MERN Stack
 
 Welcome to my GitHub profile! I am passionate about building scalable web applications and diving deep into **JavaScript, Node.js, React, Express.js and NestJS**. 
 
